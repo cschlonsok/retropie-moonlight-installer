@@ -1,4 +1,4 @@
-# Theme for Moonlight Theme in EmulationStation
+# Theme for Moonlight in EmulationStation
 This installs the images for Moonlight.
 
 # Installation
