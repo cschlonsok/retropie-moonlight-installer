@@ -1,5 +1,5 @@
-# Theme for Moonlight in EmulationStation
-This installs the images for Moonlight.
+# Theme for Moonlight Simple Theme in EmulationStation
+This installs the images for Moonlight Simple Theme.
 
 # Installation
 - Download release 1.0
