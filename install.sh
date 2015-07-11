@@ -13,6 +13,6 @@ cp background.png /etc/emulationstation/themes/simple/moonlight/art/
 cp icon.png /etc/emulationstation/themes/simple/moonlight/art/
 
 cd ..
-rm 1.0.zip
+
 
 echo "Installed the Moonlight Simple Theme"
